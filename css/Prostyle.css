@@ -81,10 +81,9 @@ color: #D6AA5C;
 .My-picture{
   position:absolute;
   width: 346px;
-  height: 80%;
-  right: 50px;
-  top:20px;
-background: url(pexels-wherbson-rodrigues-4673418.jpg);
+  height: 78%;
+  right: 60px;
+  top:30px;
 }
 #circle{
 position: absolute;
