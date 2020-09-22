@@ -9,8 +9,11 @@ font-family: 'Kite One', sans-serif;*/
 margin: 0px;
 padding:0px;
 }
-body{
+body{background: #f0f0f5;
+width: 100vw;
+height: 100vh;
 background: #f0f0f5;
+font-size: 14pt;
 }
 #header{
 position: absolute;
